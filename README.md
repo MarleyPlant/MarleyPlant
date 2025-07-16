@@ -9,16 +9,14 @@
 <a href="https://linkedin.com/in/marleyplant" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/user/@marleyplant5490" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
+
 
 <br />
 
-- 🔭 I’m currently working on [OceanSeaProducts](https://oceanseaproducts.com)  
+- 🔭 I’m currently working on a Secret React Native Project  
 - 💬 Ask me about **Flutter**, **Arduino** and **Typescript**
 - 📫 Reach me at marley@marleyplant.com
-- 👨‍💻 All of my projects are available at [marleyplant.com/portfolio](https://marleyplant.com/portfolio)
+- 👨‍💻 All of my public projects are available at [marleyplant.com/portfolio](https://marleyplant.com/portfolio)
 
 <br/>  
 
